@@ -12,6 +12,17 @@ C# Patterns in Functional Programming - https://livebook.manning.com/book/functi
 
 Category Theory Illustrated - https://boris-marinov.github.io/category-theory-illustrated/00_about/
 
+
+As a mathematician, what notational convenience were you most excited to find? - Alon Amit
+https://www.quora.com/As-a-mathematician-what-notational-convenience-were-you-most-excited-to-find/answer/Alon-Amit
+Comment - Tomer Shaul
+https://www.quora.com/As-a-mathematician-what-notational-convenience-were-you-most-excited-to-find/answer/Alon-Amit?comment_id=194686135&comment_type=2
+
+
+What's more general than category theory? - Qiaochu Yuan
+https://www.quora.com/Whats-more-general-than-category-theory/answer/Qiaochu-Yuan-1
+
+
 ---
 
 Bartosz Milewski – Category Theory for Programmers
