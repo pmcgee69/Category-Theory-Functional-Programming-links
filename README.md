@@ -28,7 +28,7 @@ Videos  -   Category Theory 1.1: Motivation and Philosophy (YouTube)
  
 Videos  -   Programming with Categories – MIT - Lecture 0 (YouTube)
 				https://www.youtube.com/watch?v=NUBEB9QlNCM 
-![image](https://user-images.githubusercontent.com/11953157/116747132-0bea7900-aa30-11eb-8535-d45818161344.png)
+
 
 ---
 
@@ -41,7 +41,7 @@ Scott Wlaschin
 
 (2015)     Design Patterns in Functional programming
 		https://www.youtube.com/watch?v=4jusLF_Xz7Q 
-![image](https://user-images.githubusercontent.com/11953157/116747183-1a389500-aa30-11eb-922d-c9ebc7c5b4de.png)
+
 
 ---
 
@@ -56,7 +56,7 @@ Scott Wlaschin
 
 	(2018)  Hands-On Functional C#: Creating Your First LINQ Expression
 			https://www.youtube.com/watch?v=fkPqKQQQy7g 
-![image](https://user-images.githubusercontent.com/11953157/116747240-2b81a180-aa30-11eb-8119-55834c75614c.png)
+
 
 
 
